@@ -1,0 +1,61 @@
+2020-02-04 14:32:04,612  nopCommerce -INFO  ********Launching browser********
+2020-02-04 14:32:04,916  nopCommerce -INFO  ********Opening URL********
+2020-02-04 14:32:09,799  nopCommerce -INFO  ********Providing Login Details********
+2020-02-04 14:32:10,319  nopCommerce -INFO  ********Started Login********
+2020-02-04 14:32:32,283  nopCommerce -INFO  ********Adding new customer********
+2020-02-04 14:32:32,283  nopCommerce -INFO  ********Providing customer details********
+2020-02-04 14:32:40,981  nopCommerce -INFO  ********Saving Customer details********
+2020-02-04 14:32:49,529  nopCommerce -INFO  ********Closing the browser********
+2020-02-04 14:32:56,002  nopCommerce -INFO  ********Launching browser********
+2020-02-04 14:32:56,007  nopCommerce -INFO  ********Opening URL********
+2020-02-04 14:32:59,112  nopCommerce -INFO  ********Providing Login Details********
+2020-02-04 14:32:59,611  nopCommerce -INFO  ********Started Login********
+2020-02-04 14:33:19,645  nopCommerce -INFO  ********Searching a customer by email ID********
+2020-02-04 14:33:23,669  nopCommerce -INFO  ********Closing the browser********
+2020-02-04 14:33:27,905  nopCommerce -INFO  ********Launching browser********
+2020-02-04 14:33:27,909  nopCommerce -INFO  ********Opening URL********
+2020-02-04 14:33:32,791  nopCommerce -INFO  ********Providing Login Details********
+2020-02-04 14:33:33,356  nopCommerce -INFO  ********Started Login********
+2020-02-04 14:33:50,294  nopCommerce -INFO  ********Searching Customer by Name********
+2020-02-04 14:33:54,601  nopCommerce -INFO  ********Closing the browser********
+2020-02-04 14:38:50,844  nopCommerce -INFO  ********Launching browser********
+2020-02-04 14:38:50,926  nopCommerce -INFO  ********Opening URL********
+2020-02-04 14:38:54,210  nopCommerce -INFO  ********Providing Login Details********
+2020-02-04 14:38:54,728  nopCommerce -INFO  ********Started Login********
+2020-02-04 14:39:23,222  nopCommerce -INFO  ********Adding new customer********
+2020-02-04 14:39:23,223  nopCommerce -INFO  ********Providing customer details********
+2020-02-04 14:39:31,744  nopCommerce -INFO  ********Saving Customer details********
+2020-02-04 14:39:38,411  nopCommerce -INFO  ********Closing the browser********
+2020-02-04 14:39:43,548  nopCommerce -INFO  ********Launching browser********
+2020-02-04 14:39:43,552  nopCommerce -INFO  ********Opening URL********
+2020-02-04 14:39:46,086  nopCommerce -INFO  ********Providing Login Details********
+2020-02-04 14:39:46,597  nopCommerce -INFO  ********Started Login********
+2020-02-04 14:40:07,965  nopCommerce -INFO  ********Searching a customer by email ID********
+2020-02-04 14:40:12,099  nopCommerce -INFO  ********Closing the browser********
+2020-02-04 14:40:16,475  nopCommerce -INFO  ********Launching browser********
+2020-02-04 14:40:16,480  nopCommerce -INFO  ********Opening URL********
+2020-02-04 14:40:19,052  nopCommerce -INFO  ********Providing Login Details********
+2020-02-04 14:40:19,534  nopCommerce -INFO  ********Started Login********
+2020-02-04 14:40:37,474  nopCommerce -INFO  ********Searching Customer by Name********
+2020-02-04 14:40:41,433  nopCommerce -INFO  ********Closing the browser********
+2020-02-04 14:40:45,985  nopCommerce -INFO  ********Launching browser********
+2020-02-04 14:40:45,989  nopCommerce -INFO  ********Opening URL********
+2020-02-04 14:40:49,201  nopCommerce -INFO  ********Providing Login Details********
+2020-02-04 14:40:49,679  nopCommerce -INFO  ********Started Login********
+2020-02-04 14:41:01,103  nopCommerce -INFO  ********Login failed********
+2020-02-04 14:41:04,136  nopCommerce -INFO  ********Click on Logout Link********
+2020-02-04 14:41:09,878  nopCommerce -INFO  ********Login failed********
+2020-02-04 14:41:12,892  nopCommerce -INFO  ********Closing the browser********
+2020-02-04 14:41:17,181  nopCommerce -INFO  ********Launching browser********
+2020-02-04 14:41:17,185  nopCommerce -INFO  ********Opening URL********
+2020-02-04 14:41:19,465  nopCommerce -INFO  ********Providing Login Details********
+2020-02-04 14:41:19,917  nopCommerce -INFO  ********Started Login********
+2020-02-04 14:41:26,642  nopCommerce -INFO  ********Login failed********
+2020-02-04 14:41:29,659  nopCommerce -INFO  ********Click on Logout Link********
+2020-02-04 14:41:35,222  nopCommerce -INFO  ********Login failed********
+2020-02-04 14:41:38,235  nopCommerce -INFO  ********Closing the browser********
+2020-02-04 14:41:43,125  nopCommerce -INFO  ********Launching browser********
+2020-02-04 14:41:43,129  nopCommerce -INFO  ********Opening URL********
+2020-02-04 14:41:46,348  nopCommerce -INFO  ********Providing Login Details********
+2020-02-04 14:41:46,978  nopCommerce -INFO  ********Started Login********
+2020-02-04 14:41:50,701  nopCommerce -INFO  ********Login Passed********
